@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Built-By: BIDASAN
+Class-Path: lib/vertx-core-3.8.5.jar lib/netty-common-4.1.42.Final.jar
+  lib/netty-buffer-4.1.42.Final.jar lib/netty-transport-4.1.42.Final.j
+ ar lib/netty-handler-4.1.42.Final.jar lib/netty-codec-4.1.42.Final.ja
+ r lib/netty-handler-proxy-4.1.42.Final.jar lib/netty-codec-socks-4.1.
+ 42.Final.jar lib/netty-codec-http-4.1.42.Final.jar lib/netty-codec-ht
+ tp2-4.1.42.Final.jar lib/netty-resolver-4.1.42.Final.jar lib/netty-re
+ solver-dns-4.1.42.Final.jar lib/netty-codec-dns-4.1.42.Final.jar lib/
+ jackson-core-2.9.9.jar lib/jackson-databind-2.9.9.1.jar lib/jackson-a
+ nnotations-2.9.0.jar lib/vertx-web-3.8.5.jar lib/vertx-web-common-3.8
+ .5.jar lib/vertx-auth-common-3.8.5.jar lib/vertx-bridge-common-3.8.5.
+ jar lib/netty-tcnative-boringssl-static-2.0.29.Final.jar lib/reactor-
+ core-3.3.9.RELEASE.jar lib/reactive-streams-1.0.3.jar lib/reactor-net
+ ty-0.9.11.RELEASE.jar lib/netty-transport-native-epoll-4.1.51.Final-l
+ inux-x86_64.jar lib/netty-transport-native-unix-common-4.1.51.Final.j
+ ar
+Build-Jdk: 1.8.0_242
+Created-By: Maven Integration for Eclipse
+Main-Class: first_B.com.firstb.proj.App
+
